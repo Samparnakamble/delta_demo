@@ -1,5 +1,5 @@
 # delta_demo
-This is My new demo delta reository
+This is My delta demo Reporistry.
 
 # Teacher 
 Shardha Kapra
